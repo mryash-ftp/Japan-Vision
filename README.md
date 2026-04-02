@@ -1,53 +1,53 @@
-# 🌌 Japan-Vision: Breaking the Reality Barrier
-> **"Nothing is a dream, everything is real. You just need to crack the barrier for reality."**
+# 🌌 Japan-Vision: 限界を突破する (Breaking the Reality Barrier)
+> **"Nothing is a dream; everything is real. You just need to crack the barrier for reality."**
 
-नमस्ते! मैं हूँ **Alven Alex**, और यह Repository मेरा **MEXT Scholarship** का रास्ता है। यहाँ मैं अपनी **Python Automation** की स्किल्स और **Japanese Language (N5-N3)** की डेली प्रोग्रेस को ट्रैक करता हूँ।
-
----
-
-## 🎯 My Mission
-मेरा लक्ष्य है **Japan** जाकर **Computer Science** पढ़ना और **Automation & AI** की दुनिया में नए 'Standard' सेट करना। मैं अपने प्रोजेक्ट **"Alven X AI"** के जरिए डिजिटल वर्कस्पेस को और भी फ्यूचरिस्टिक और एफिशिएंट बनाना चाहता हूँ।
+Welcome! I am **Alven Alex (アルヴェン・アレックス)**. This repository is my official roadmap to the **MEXT Scholarship (文部科学省奨学金)**. 
 
 ---
 
-## 🛠️ Skills & Progress
-
-### 🇯🇵 Japanese (Current Level: N5 ⏳)
-- [x] **Hiragana:** 46 Letters (Completed)
-- [x] **Voiced Sounds:** (G, Z, B, P, D Groups Completed)
-- [/] **Kanji:** 50+ Target (Current: Studying daily)
-- [ ] **Katakana:** Next in line!
-
-### 🐍 Python (Level: Basic to Automation)
-- [x] **Syntax:** Variables, Data Types
-- [x] **Control Flow:** If-Else, Loops (For/While)
-- [/] **File Handling:** (Used in Desktop Cleaner)
-- [ ] **GUI Development:** (Planned for Alven X AI)
+## 🎯 任務 (My Mission)
+My goal is to pursue **Computer Science** in Japan and set new standards in **Automation & AI**. Through my project **"Alven X AI,"** I aim to redefine digital workspaces.
 
 ---
 
-## 📁 Repository Structure
+## 🛠️ スキルと進捗 (Skills & Progress Tracker)
+
+### 🇯🇵 日本語 (Japanese Language - JLPT N5 ⏳)
+- [x] **ひらがな (Hiragana):** 46 Characters Mastered ✅
+- [x] **濁音 (Dakuon):** G, Z, B, P, D Groups Mastered ✅
+- [/] **漢字 (Kanji):** Target 50+ (Currently studying daily 📖)
+- [ ] **カタカナ (Katakana):** 次のステップ (Next milestone!)
+
+### 🐍 パイソン (Python Programming)
+- [x] **基本 (Basics):** Variables, Data Types, Logic ✅
+- [x] **ループ (Loops):** For/While Loops Mastered ✅
+- [/] **自動化 (Automation):** File Handling & Desktop Organizer 🛠️
+- [ ] **GUI開発 (GUI Dev):** Planned for Alven X AI (PyQt6) 🖥️
+
+---
+
+## 📁 ディレクトリ構成 (Repository Structure)
 | Folder | Content |
 | :--- | :--- |
-| `📂 Japanese_Lab` | मेरी डेली कांजी प्रैक्टिस और ग्रामर नोट्स। |
-| `📂 Python_Automation` | डेस्कटॉप क्लीनर और फाइल जेनरेटर जैसे स्क्रिप्ट्स। |
-| `📂 MEXT_Sprint` | Maths (B) और Physics के प्रैक्टिस लॉग्स (Coming Soon)। |
+| `📂 Japanese_Lab` | Daily **漢字 (Kanji)** logs and Grammar notes. |
+| `📂 Python_Automation` | Desktop Cleaner and System Scripts. |
+| `📂 MEXT_Sprint` | Practice logs for **数学 (Maths B)** and Physics. |
 
 ---
 
-## 🚀 Key Projects
-### 1. Alven Desktop Cleaner
-एक Python स्क्रिप्ट जो डेस्कटॉप को डेट और टाइप के हिसाब से ऑर्गनाइज़ करती है। 
-- **Tech:** Python, `os`, `shutil`
-- **Feature:** Symbol-protection protocol (Ignoring items with +, -, #).
+## 🚀 主なプロジェクト (Featured Projects)
+### 1. Alven Desktop Cleaner (デスクトップクリーナー)
+A smart Python script that organizes files by date and type.
+- **Tech:** Python (`os`, `shutil`)
+- **Feature:** **保護シンボル (Protection Symbols)** - Ignores items marked with `+`, `-`, `#`.
 
 ---
 
-## 📈 Roadmap for Reality
-1. **Phase 1:** Master N5 Kanji & Python Logic. ✅
-2. **Phase 2:** Build a Futuristic GUI for Automation Tools. ⏳
-3. **Phase 3:** Crack the MEXT Exam Barrier (Maths & English). ⏳
+## 📈 現実へのロードマップ (Roadmap to Reality)
+1. **第一段階 (Phase 1):** Master N5 Kanji & Python Core Logic. ✅
+2. **第二段階 (Phase 2):** Develop a Futuristic GUI for Automation Tools. ⏳
+3. **最終段階 (Phase 3):** Crack the MEXT Examination Barrier. ⏳
 
 ---
 **Founder:** Alven Alex (Pradeep Kumar Gupta)  
-*"Building the future, one commit at a time."*
+*"夢を現実に (Turning dreams into reality), one commit at a time."*
