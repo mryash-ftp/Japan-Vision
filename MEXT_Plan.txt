@@ -1,0 +1,27 @@
+=========================================
+      PROJECT: JAPAN-VISION (2026-2027)
+=========================================
+
+GOAL: Secure MEXT Scholarship 2027 (Undergraduate/College of Technology)
+RESEARCH AREA: Computer Science & AI Automation
+
+PHASE 1: TECHNICAL FOUNDATION (Q1-Q2 2026)
+------------------------------------------
+1. Python Mastery: Data Structures, Algorithms, and Automation scripts.
+2. Web Fundamentals: Building a specialized UI for AI tools.
+3. Cybersecurity: Launching the "Investigation Bin" tool prototype.
+
+PHASE 2: CULTURAL & LANGUAGE INTEGRATION (Q2-Q3 2026)
+----------------------------------------------------
+1. Japanese Language: Master Hiragana, Katakana, and 100+ Nature-related Kanji.
+2. JLPT N5: Complete certification by July 2026.
+3. Research Paper: Draft a basic vision on how AI can benefit Japanese industries.
+
+PHASE 3: APPLICATION & PORTFOLIO (Q4 2026 - Q1 2027)
+----------------------------------------------------
+1. Showcase "Japan-Vision" as a functional AI dashboard.
+2. Consolidate all coding exercises into one "Technical Portfolio".
+3. Prepare for MEXT written exams (Math/English/Japanese).
+
+"Nothing is a dream; everything is real. You just need to crack the barrier to reality."
+=========================================
