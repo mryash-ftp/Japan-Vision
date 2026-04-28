@@ -1,9 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
-import pyperclip # pip install pyperclip
+import pyperclip
 
 def generate_message():
-    # .upper() lagane se naam hamesha CAPITAL rahega
     name = entry_name.get().strip().upper() 
     if not name:
         messagebox.showwarning("Input Error", "Please enter Customer Name")
@@ -45,26 +44,21 @@ def clear_all():
     output_box.delete(1.0, tk.END)
     entry_name.focus()
 
-# GUI Setup
 root = tk.Tk()
 root.title("Alven Alex - PAN Notifier Pro")
 root.geometry("600x680")
 root.configure(bg="#0f172a")
 
-# Header
 tk.Label(root, text="PAN NOTIFICATION SYSTEM", font=("Segoe UI", 18, "bold"), fg="#38bdf8", bg="#0f172a").pack(pady=20)
 
-# Input
 tk.Label(root, text="Customer Name:", fg="white", bg="#0f172a").pack()
 entry_name = tk.Entry(root, font=("Segoe UI", 12), width=35, bg="#1e293b", fg="white", insertbackground="white", justify="center")
 entry_name.pack(pady=10)
 
-# Language
 lang_var = tk.StringVar(value="Hindi")
 tk.Radiobutton(root, text="Hindi (हिंदी)", variable=lang_var, value="Hindi", fg="#38bdf8", bg="#0f172a", selectcolor="#1e293b").pack()
 tk.Radiobutton(root, text="English", variable=lang_var, value="English", fg="#38bdf8", bg="#0f172a", selectcolor="#1e293b").pack()
 
-# Buttons
 btn_frame = tk.Frame(root, bg="#0f172a")
 btn_frame.pack(pady=20)
 
@@ -72,7 +66,6 @@ tk.Button(btn_frame, text="GENERATE", command=generate_message, bg="#38bdf8", fg
 tk.Button(btn_frame, text="COPY", command=copy_to_clipboard, bg="#f472b6", fg="black", font=("Segoe UI", 10, "bold"), width=12).grid(row=0, column=1, padx=5)
 tk.Button(btn_frame, text="CLEAR", command=clear_all, bg="#94a3b8", fg="black", font=("Segoe UI", 10, "bold"), width=12).grid(row=0, column=2, padx=5)
 
-# Output
 output_box = tk.Text(root, height=15, width=65, font=("Segoe UI", 9), bg="#1e293b", fg="#cbd5e1", padx=10, pady=10)
 output_box.pack(pady=10)
 
