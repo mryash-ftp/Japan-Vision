@@ -9,8 +9,8 @@ def generate_message():
         messagebox.showwarning("Input Error", "Please enter Customer Name")
         return
     
-    shop = "RAJ PHOTO COPY CENTER"
-    phone = "9140041393"
+    shop = "My Zerox Center"
+    phone = "ABCD123456"
 
     if lang_var.get() == "Hindi":
         msg = (f"Your PAN Card is Ready! / आपका पैन कार्ड तैयार है!\n\n"
@@ -47,7 +47,7 @@ def clear_all():
 
 # GUI Setup
 root = tk.Tk()
-root.title("Raj Photo Copy - PAN Notifier Pro")
+root.title("Alven Alex - PAN Notifier Pro")
 root.geometry("600x680")
 root.configure(bg="#0f172a")
 
