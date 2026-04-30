@@ -1,12 +1,31 @@
-## JLPT N5 Roadmap
+### 📝 Daily Progress Log [30/04/2026]
 
-### Quiex Result ----  Hiragana Quiz [29/04/2026]
+#### 🏆 Quiz Results
+- **Topic:** Hiragana Mastery
+- **Score:** 44/46 (95.65%)
+- **Status:** 92% of characters remembered.
+- **Focus Area:** Mastering the last 2 red characters.
 
-Hiragana Chart
-You have remembered 92% of Hiragana characters!
-You still need to remember the red characters below!
-After glancing at the chart, please try the Hiragana Quiz again!
-The questions you couldn't answer correctly will be asked frequently!
+---
 
-Overall Correct: 44/46 (95.65%)
-main Kana44/46 (95.65%)
+#### ⛩️ New Kanji Learned (10 Characters)
+*Goal: Nature & Basic Objects*
+
+| Kanji | Reading (Hiragana) | Meaning |
+| :--- | :--- | :--- |
+| **日** | ひ / にち | Sun / Day |
+| **月** | つき / げつ | Moon / Month |
+| **火** | ひ / か | Fire |
+| **水** | みず / すい | Water |
+| **木** | き / もく | Tree / Wood |
+| **金** | かね / きん | Gold / Money |
+| **土** | つち / ど | Earth / Soil |
+| **山** | やま / さん | Mountain |
+| **川** | かわ / せん | River |
+| **田** | た / でん | Rice Field |
+
+---
+
+#### 📸 Practice Proof
+- [ ] *Handwriting Photo added to `/Handwriting` folder* (Coming soon!)
+- [x] *Digital Quiz completed on Renshuu*
