@@ -29,3 +29,29 @@
 #### 📸 Practice Proof
 - [ ] *Handwriting Photo added to `/Handwriting` folder* (Coming soon!)
 - [x] *Digital Quiz completed on Renshuu*
+
+---
+
+### 📝 Daily Progress Log [01/05/2026]
+
+#### ⛩️ New Kanji Set: Numbers & Directions
+*Goal: Mastering coordinates and counting for N5.*
+
+| Kanji | Reading (Hiragana) | Meaning | Logic/Mnemonic |
+| :--- | :--- | :--- | :--- |
+| **一** | いち | One | A single horizontal stroke. |
+| **二** | に | Two | Two horizontal strokes. |
+| **三** | さん | Three | Three horizontal strokes. |
+| **十** | じゅう | Ten | Looks like a plus (+) or a cross. |
+| **百** | ひゃく | Hundred | Represents a large quantity. |
+| **上** | うえ | Up / Above | Stroke pointing upwards from the line. |
+| **下** | した | Down / Below | Stroke hanging downwards from the line. |
+| **左** | ひだり | Left | Construction tool radical on the left. |
+| **右** | みぎ | Right | Mouth radical on the right (eating with right hand). |
+| **中** | なか | Middle / Inside | A line going through the center of a box. |
+
+#### 🧠 Grammar Synthesis (Hindi Logic)
+- **木** (Tree) + **の** (no) + **下** (shita) = Tree **ke** niche.
+- **川** (River) + **の** (no) + **中** (naka) = River **ke** andar.
+
+---
