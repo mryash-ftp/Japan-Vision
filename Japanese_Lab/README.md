@@ -7,7 +7,7 @@
 - **Focus Area:** Mastering the last 2 red characters.
 
 ---
-
+### 📝 Daily Progress Log [01/05/2026]
 #### ⛩️ New Kanji Learned (10 Characters)
 *Goal: Nature & Basic Objects*
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📝 Daily Progress Log [01/05/2026]
+### 📝 Daily Progress Log [02/05/2026]
 
 #### ⛩️ New Kanji Set: Numbers & Directions
 *Goal: Mastering coordinates and counting for N5.*
@@ -54,4 +54,8 @@
 - **木** (Tree) + **の** (no) + **下** (shita) = Tree **ke** niche.
 - **川** (River) + **の** (no) + **中** (naka) = River **ke** andar.
 
----
+  
+### 📝 Daily Progress Log [03/05/2026]
+
+- **Topic:** Hiragana & Katakana Revision
+
