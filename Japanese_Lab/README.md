@@ -59,3 +59,12 @@
 
 - **Topic:** Hiragana & Katakana Revision
 
+### 📝 Daily Progress Log [04/05/2026]
+#### ⛩️ New Kanji Learned (3 Characters)
+| Kanji | Reading (Hiragana) | Meaning | Logic/Mnemonic |
+| :--- | :--- | 
+| **年** | (year),  
+| **時** |(time/hour)
+| **分** | (minute)
+| **先 ** |(previous)
+| **今** | (now)
