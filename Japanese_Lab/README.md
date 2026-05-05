@@ -55,14 +55,16 @@
 - **川** (River) + **の** (no) + **中** (naka) = River **ke** andar.
 
   
+---
+  
 ### 📝 Daily Progress Log [03/05/2026]
 
 - **Topic:** Hiragana & Katakana Revision
-
+---
 ### 📝 Daily Progress Log [04/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering coordinates and counting for N5.*
-
+---
 | Kanji |  Meaning |
 | :--- | :--- |
 | **年** | (year | 
