@@ -68,5 +68,5 @@
 | **年** | (year | 
 | **時** |time/hour | 
 | **分** | minute | 
-| **先 ** |previous | 
+| **先** |previous | 
 | **今** | now | 
