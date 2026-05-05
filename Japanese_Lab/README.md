@@ -60,7 +60,7 @@
 - **Topic:** Hiragana & Katakana Revision
 
 ### 📝 Daily Progress Log [04/05/2026]
-#### ⛩️ New Kanji Learned (3 Characters)
+#### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering coordinates and counting for N5.*
 
 | Kanji |  Meaning |
@@ -70,3 +70,4 @@
 | **分** | minute | 
 | **先** |previous | 
 | **今** | now | 
+
