@@ -63,8 +63,8 @@
 #### ⛩️ New Kanji Learned (3 Characters)
 *Goal: Mastering coordinates and counting for N5.*
 
-| Kanji | Reading (Hiragana) | Meaning | Logic/Mnemonic |
-| :--- | :--- | :--- | :--- | 
+| Kanji |  Meaning |
+| :--- | :--- |
 | **年** | (year | 
 | **時** |time/hour | 
 | **分** | minute | 
