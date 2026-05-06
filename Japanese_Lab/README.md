@@ -67,9 +67,21 @@
 ---
 | Kanji |  Meaning |
 | :--- | :--- |
-| **年** | (year | 
+| **年** | year | 
 | **時** |time/hour | 
 | **分** | minute | 
 | **先** |previous | 
 | **今** | now | 
+
+### 📝 Daily Progress Log [05/05/2026]
+#### ⛩️ New Kanji Learned (5 Characters)
+*Goal: Mastering coordinates and counting for N5.*
+---
+| Kanji |  Meaning |
+| :--- | :--- |
+| **上** | up | 
+| **下** |down| 
+| **中** | middle | 
+| **大** |big | 
+| **小** | small | 
 
