@@ -85,3 +85,17 @@
 | **大** |big | 
 | **小** | small | 
 
+### 📝 Daily Progress Log [05/05/2026]
+#### ⛩️ New Kanji Learned (5 Characters)
+*Goal: Mastering coordinates and counting for N5.*
+---
+| Kanji |  Hiragana |  Romji |  Meaning |  Hindi |
+| :--- | :--- | :--- | :--- | :--- |
+|1|わたし| Watashi | I / Me |मैं|
+|2| あなた |あなた |Anata You |आप / तुम|
+|3 |彼 かれ |Kare He / Boyfriend| वह / प्रेमी|
+|4| 彼女 かのじょ| Kanojo She / Girlfriend| वह / प्रेमिका|
+|5|  家族 かぞく| Kazoku Family| पɝरिवारि|
+
+
+
