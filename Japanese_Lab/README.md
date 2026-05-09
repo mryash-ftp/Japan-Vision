@@ -92,10 +92,10 @@
 | Sr |  Hiragana |  Romji |  Meaning |  Hindi |
 | :--- | :--- | :--- | :--- | :--- |
 |1|わたし| Watashi | I / Me |मैं|
-|2| あなた |Anata You |आप / तुम|
-|3 |彼 かれ |Kare He / Boyfriend| वह / प्रेमी|
+|2| あなた |Anata |You |आप / तुम|
+|3 |彼 かれ |Kare |He / Boyfriend| वह / प्रेमी|
 |4| 彼女 かのじょ| Kanojo |She / Girlfriend| वह / प्रेमिका|
-|5|  家族 かぞく| Kazoku Family | परिवार |
+|5|  家族 かぞく| Kazoku | Family | परिवार |
 
 
 
