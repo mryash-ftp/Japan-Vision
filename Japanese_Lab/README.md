@@ -85,7 +85,7 @@
 | **大** |big | 
 | **小** | small | 
 
-### 📝 Daily Progress Log [05/05/2026]
+### 📝 Daily Progress Log [06/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering coordinates and counting for N5.*
 ---
@@ -98,4 +98,28 @@
 |5|  家族 かぞく| Kazoku | Family | परिवार |
 
 
+### 📝 Daily Progress Log [07/05/2026]
+#### ⛩️ New Kanji Learned (5 Characters)
+*Goal: Mastering coordinates and counting for N5.*
+---
+| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
+| :--- | :--- | :--- | :--- | :--- |
+|6  |ちち| Chichi |Father (mine) | पिता (मेरे) |
+|7  |はは Haha  |Mother(mine) | माँ ((मेरे) |
+|8  |おとうさん | Otousan | Father (someone else's) | पिता जी |
+|9  |おかあさん | Okaasan | Mother (someone else's) | माता जी |
+|10 |あに  |  Ani  |Older brother | बड़ा भाई |
+
+
+### 📝 Daily Progress Log [08/05/2026]
+#### ⛩️ New Kanji Learned (5 Characters)
+*Goal: Mastering coordinates and counting for N5.*
+---
+| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
+| :--- | :--- | :--- | :--- | :--- |
+|1|わたし| Watashi | I / Me |मैं|
+|2| あなた |Anata |You |आप / तुम|
+|3 |彼 かれ |Kare |He / Boyfriend| वह / प्रेमी|
+|4| 彼女 かのじょ| Kanojo |She / Girlfriend| वह / प्रेमिका|
+|5|  家族 かぞく| Kazoku | Family | परिवार |
 
