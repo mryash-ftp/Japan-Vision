@@ -126,7 +126,8 @@
 ### 📝 Daily Progress Log [09/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering Vocabulary Words.*
-
+| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
+| :--- | :--- | :--- | :--- | :--- |
 |16 | がくせい| Gakusei |Student| छात्र|
 |17|  がっこう |Gakkou |School|स्कूल|
 |18 | だいがく| Daigaku |University |विश्वविद्यलय|
