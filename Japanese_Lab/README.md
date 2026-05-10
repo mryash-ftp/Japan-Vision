@@ -63,7 +63,7 @@
 ---
 ### 📝 Daily Progress Log [04/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering coordinates and counting for N5.*
+*Goal: Mastering Vocabulary Words.*
 ---
 | Kanji |  Meaning |
 | :--- | :--- |
@@ -75,7 +75,7 @@
 
 ### 📝 Daily Progress Log [05/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering coordinates and counting for N5.*
+*Goal: Mastering Vocabulary Words.*
 ---
 | Kanji |  Meaning |
 | :--- | :--- |
@@ -87,7 +87,7 @@
 
 ### 📝 Daily Progress Log [06/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering coordinates and counting for N5.*
+*Goal: Mastering Vocabulary Words.*
 ---
 | Sr |  Hiragana |  Romji |  Meaning |  Hindi |
 | :--- | :--- | :--- | :--- | :--- |
@@ -100,7 +100,7 @@
 
 ### 📝 Daily Progress Log [07/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering coordinates and counting for N5.*
+*Goal: Mastering Vocabulary Words.*
 ---
 | Sr |  Hiragana |  Romji |  Meaning |  Hindi |
 | :--- | :--- | :--- | :--- | :--- |
@@ -113,7 +113,7 @@
 
 ### 📝 Daily Progress Log [08/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering coordinates and counting for N5.*
+*Goal: Mastering Vocabulary Words.*
 ---
 | Sr |  Hiragana |  Romji |  Meaning |  Hindi |
 | :--- | :--- | :--- | :--- | :--- |
