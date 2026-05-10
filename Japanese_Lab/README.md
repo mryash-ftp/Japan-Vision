@@ -131,5 +131,5 @@
 |16 | がくせい| Gakusei |Student| छात्र|
 |17|  がっこう |Gakkou |School|स्कूल|
 |18 | だいがく| Daigaku |University |विश्वविद्यलय|
-|19 | |きょうしつ |Kyoushitsu |Classroom |कक्षा|
+|19 |きょうしつ |Kyoushitsu |Classroom |कक्षा|
 |20 | にほんご |Nihongo| Japanese language |जापानी |
