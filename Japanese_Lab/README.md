@@ -123,3 +123,12 @@
 |14 | ともだち| Tomodachi| Friend |दोस्त|
 |15 | せんせい| Sensei| Teacher |शिक्षक|
 
+### 📝 Daily Progress Log [09/05/2026]
+#### ⛩️ New Kanji Learned (5 Characters)
+*Goal: Mastering Vocabulary Words.*
+
+|16 | がくせい| Gakusei |Student| छात्र|
+|17|  がっこう |Gakkou |School|स्कूल|
+|18 | だいがく| Daigaku |University |विश्वविद्यलय|
+|19 | |きょうしつ |Kyoushitsu |Classroom |कक्षा|
+|20 | にほんご |Nihongo| Japanese language |जापानी |
