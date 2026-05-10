@@ -117,9 +117,9 @@
 ---
 | Sr |  Hiragana |  Romji |  Meaning |  Hindi |
 | :--- | :--- | :--- | :--- | :--- |
-|1|わたし| Watashi | I / Me |मैं|
-|2| あなた |Anata |You |आप / तुम|
-|3 |彼 かれ |Kare |He / Boyfriend| वह / प्रेमी|
-|4| 彼女 かのじょ| Kanojo |She / Girlfriend| वह / प्रेमिका|
-|5|  家族 かぞく| Kazoku | Family | परिवार |
+|11 | あね| Ane |Older sister| बड़ी बहन|
+|12 | おとうと| Otouto |Younger brother| छोटा भाई|
+|13  |いもうと |Imouto| Younger sister |छोटी बहन|
+|14 | ともだち| Tomodachi| Friend |दोस्त|
+|15 | せんせい| Sensei| Teacher |शिक्षक|
 
