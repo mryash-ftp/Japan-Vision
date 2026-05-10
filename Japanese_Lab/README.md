@@ -105,7 +105,7 @@
 | Sr |  Hiragana |  Romji |  Meaning |  Hindi |
 | :--- | :--- | :--- | :--- | :--- |
 |6  |ちち| Chichi |Father (mine) | पिता (मेरे) |
-|7  |はは Haha  |Mother(mine) | माँ ((मेरे) |
+|7  |はは| Haha  |Mother(mine) | माँ ((मेरे) |
 |8  |おとうさん | Otousan | Father (someone else's) | पिता जी |
 |9  |おかあさん | Okaasan | Mother (someone else's) | माता जी |
 |10 |あに  |  Ani  |Older brother | बड़ा भाई |
