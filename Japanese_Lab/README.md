@@ -133,3 +133,13 @@
 |18 | だいがく| Daigaku |University |विश्वविद्यलय|
 |19 |きょうしつ |Kyoushitsu |Classroom |कक्षा|
 |20 | にほんご |Nihongo| Japanese language |जापानी |
+
+### 📝 Daily Progress Log [010/05/2026]
+#### ⛩️ New Kanji Learned (5 Characters)
+*Goal: Mastering Vocabulary Words.*
+| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
+| :--- | :--- | :--- | :--- | :--- |
+|21 | えいご |Eigo |English language| अंग्रेजी भाषा|
+|22 | ほん |Hon |Book |किताब|
+|23 | じしょ| Jisho| Dictionary |शब्दकोश|
+|24 | ざっし| Zasshi| Magazine |पत्रिका|
