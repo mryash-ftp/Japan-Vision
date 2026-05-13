@@ -156,3 +156,15 @@
 |29| いす| Isu |Chair| कुर्सी||
 |30 | とけい| Tokei |Clock / Watch |घड़ी|
 |31 | でんわ| Denwa| Telephone|फोन|
+
+### 📝 Daily Progress Log [010/05/2026]
+#### ⛩️ New Kanji Learned (5 Characters)
+*Goal: Mastering Vocabulary Words.*
+| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
+| :--- | :--- | :--- | :--- | :--- |
+|26 | のーと| Nooto| Notebook| नोटबुक|
+|27|  ぺん |Pen |Pen |पेन|
+|28 | つくえ| Tsukue |Desk| मेज|
+|29| いす| Isu |Chair| कुर्सी||
+|30 | とけい| Tokei |Clock / Watch |घड़ी|
+|31 | でんわ| Denwa| Telephone|फोन|
