@@ -64,7 +64,7 @@
 ### 📝 Daily Progress Log [04/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering Vocabulary Words.*
----
+-----
 | Kanji |  Meaning |
 | :--- | :--- |
 | **年** | year | 
