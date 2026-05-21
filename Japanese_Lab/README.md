@@ -168,3 +168,5 @@
 |29| いす| Isu |Chair| कुर्सी||
 |30 | とけい| Tokei |Clock / Watch |घड़ी|
 |31 | でんわ| Denwa| Telephone|फोन|
+
+-------------------
