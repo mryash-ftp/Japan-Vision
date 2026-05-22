@@ -101,7 +101,7 @@
 ### 📝 Daily Progress Log [07/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering Vocabulary Words.*
----
+-----------
 | Sr |  Hiragana |  Romji |  Meaning |  Hindi |
 | :--- | :--- | :--- | :--- | :--- |
 |6  |ちち| Chichi |Father (mine) | पिता (मेरे) |
@@ -109,7 +109,7 @@
 |8  |おとうさん | Otousan | Father (someone else's) | पिता जी |
 |9  |おかあさん | Okaasan | Mother (someone else's) | माता जी |
 |10 |あに  |  Ani  |Older brother | बड़ा भाई |
-
+------------------------------------
 
 ### 📝 Daily Progress Log [08/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
@@ -122,7 +122,7 @@
 |13  |いもうと |Imouto| Younger sister |छोटी बहन|
 |14 | ともだち| Tomodachi| Friend |दोस्त|
 |15 | せんせい| Sensei| Teacher |शिक्षक|
-
+-------------------------------------------
 ### 📝 Daily Progress Log [09/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering Vocabulary Words.*
@@ -144,7 +144,7 @@
 |23 | じしょ| Jisho| Dictionary |शब्दकोश|
 |24 | ざっし| Zasshi| Magazine |पत्रिका|
 |25|しんぶん| Shinbun| Newspaper |अखबारि|
-
+---------
 ### 📝 Daily Progress Log [010/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering Vocabulary Words.*
@@ -156,7 +156,7 @@
 |29| いす| Isu |Chair| कुर्सी||
 |30 | とけい| Tokei |Clock / Watch |घड़ी|
 |31 | でんわ| Denwa| Telephone|फोन|
-
+------------
 ### 📝 Daily Progress Log [010/05/2026]
 #### ⛩️ New Kanji Learned (5 Characters)
 *Goal: Mastering Vocabulary Words.*
