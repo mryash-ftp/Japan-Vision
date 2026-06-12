@@ -1,176 +1,59 @@
 ### 📝 Daily Progress Log [30/04/2026]
+- **Language:** Cleared Hiragana Mastery Quiz on Renshuu (Score: 44/46).
+- **Focus:** Revising the last 2 characters to reach 100% mastery.
 
-#### 🏆 Quiz Results
-- **Topic:** Hiragana Mastery
-- **Score:** 44/46 (95.65%)
-- **Status:** 92% of characters remembered.
-- **Focus Area:** Mastering the last 2 red characters.
-
----
 ### 📝 Daily Progress Log [01/05/2026]
-#### ⛩️ New Kanji Learned (10 Characters)
-*Goal: Nature & Basic Objects*
-
-| Kanji | Reading (Hiragana) | Meaning |
-| :--- | :--- | :--- |
-| **日** | ひ / にち | Sun / Day |
-| **月** | つき / げつ | Moon / Month |
-| **火** | ひ / か | Fire |
-| **水** | みず / すい | Water |
-| **木** | き / もく | Tree / Wood |
-| **金** | かね / きん | Gold / Money |
-| **土** | つち / ど | Earth / Soil |
-| **山** | やま / さん | Mountain |
-| **川** | かわ / せん | River |
-| **田** | た / でん | Rice Field |
-
----
-
-#### 📸 Practice Proof
-- [ ] *Handwriting Photo added to `/Handwriting` folder* (Coming soon!)
-- [x] *Digital Quiz completed on Renshuu*
-
----
+- **Kanji:** Practiced 10 Nature & Object characters (日, 月, 火, 水, 木, 土, 山, 川, 田).
+- **Activity:** Completed digital practice streak.
 
 ### 📝 Daily Progress Log [02/05/2026]
+- **Kanji:** Mastered Numbers & Coordinates (一, 二, 三, 十, 百, 上, 下, 左, 右, 中).
+- **Grammar:** Implemented particle 'の' (no) with spatial logic (e.g., 木の下, 川の中).
 
-#### ⛩️ New Kanji Set: Numbers & Directions
-*Goal: Mastering coordinates and counting for N5.*
-
-| Kanji | Reading (Hiragana) | Meaning | Logic/Mnemonic |
-| :--- | :--- | :--- | :--- |
-| **一** | いち | One | A single horizontal stroke. |
-| **二** | に | Two | Two horizontal strokes. |
-| **三** | さん | Three | Three horizontal strokes. |
-| **十** | じゅう | Ten | Looks like a plus (+) or a cross. |
-| **百** | ひゃく | Hundred | Represents a large quantity. |
-| **上** | うえ | Up / Above | Stroke pointing upwards from the line. |
-| **下** | した | Down / Below | Stroke hanging downwards from the line. |
-| **左** | ひだり | Left | Construction tool radical on the left. |
-| **右** | みぎ | Right | Mouth radical on the right (eating with right hand). |
-| **中** | なか | Middle / Inside | A line going through the center of a box. |
-
-#### 🧠 Grammar Synthesis (Hindi Logic)
-- **木** (Tree) + **の** (no) + **下** (shita) = Tree **ke** niche.
-- **川** (River) + **の** (no) + **中** (naka) = River **ke** andar.
-
-  
----
-  
 ### 📝 Daily Progress Log [03/05/2026]
+- **Revision:** Dedicated session for Hiragana & Katakana structural review.
+- **Status:** All characters finalized.
 
-- **Topic:** Hiragana & Katakana Revision
----
 ### 📝 Daily Progress Log [04/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
------
-| Kanji |  Meaning |
-| :--- | :--- |
-| **年** | year | 
-| **時** |time/hour | 
-| **分** | minute | 
-| **先** |previous | 
-| **今** | now | 
+- **Vocabulary:** Learned Time-related vocabulary (年, 時, 分, 先, 今).
+- **Review:** Checked active recall using flashcards.
 
 ### 📝 Daily Progress Log [05/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
----
-| Kanji |  Meaning |
-| :--- | :--- |
-| **上** | up | 
-| **下** |down| 
-| **中** | middle | 
-| **大** |big | 
-| **小** | small | 
+- **Vocabulary:** Covered Core structural adjectives (上, 下, 中, 大, 小).
+- **Status:** Synced with the MEXT core curriculum roadmap.
 
 ### 📝 Daily Progress Log [06/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
----
-| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
-| :--- | :--- | :--- | :--- | :--- |
-|1|わたし| Watashi | I / Me |मैं|
-|2| あなた |Anata |You |आप / तुम|
-|3 |彼 かれ |Kare |He / Boyfriend| वह / प्रेमी|
-|4| 彼女 かのじょ| Kanojo |She / Girlfriend| वह / प्रेमिका|
-|5|  家族 かぞく| Kazoku | Family | परिवार |
-
+- **Vocabulary:** Studied Pronouns and Basic Relations (1-5: 私, あなた, 彼, 彼女, 家族).
+- **Context:** Practiced identifying pronouns in daily conversational scripts.
 
 ### 📝 Daily Progress Log [07/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
------------
-| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
-| :--- | :--- | :--- | :--- | :--- |
-|6  |ちち| Chichi |Father (mine) | पिता (मेरे) |
-|7  |はは| Haha  |Mother(mine) | माँ ((मेरे) |
-|8  |おとうさん | Otousan | Father (someone else's) | पिता जी |
-|9  |おかあさん | Okaasan | Mother (someone else's) | माता जी |
-|10 |あに  |  Ani  |Older brother | बड़ा भाई |
-------------------------------------
+- **Vocabulary:** Mastered core Family terms (6-10: 父, 母, お父さん, お母さん, 兄).
+- **Focus:** Differentiating humble forms vs. respectful forms (e.g., 父 vs. お父さん).
 
 ### 📝 Daily Progress Log [08/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
----
-| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
-| :--- | :--- | :--- | :--- | :--- |
-|11 | あね| Ane |Older sister| बड़ी बहन|
-|12 | おとうと| Otouto |Younger brother| छोटा भाई|
-|13  |いもうと |Imouto| Younger sister |छोटी बहन|
-|14 | ともだち| Tomodachi| Friend |दोस्त|
-|15 | せんせい| Sensei| Teacher |शिक्षक|
--------------------------------------------
+- **Vocabulary:** Advanced to extended family & peer relations (11-15: 姉, 弟, 妹, 友達, 先生).
+- **Review:** Pronunciation check using audio cues.
+
 ### 📝 Daily Progress Log [09/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
-| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
-| :--- | :--- | :--- | :--- | :--- |
-|16 | がくせい| Gakusei |Student| छात्र|
-|17|  がっこう |Gakkou |School|स्कूल|
-|18 | だいがく| Daigaku |University |विश्वविद्यलय|
-|19 |きょうしつ |Kyoushitsu |Classroom |कक्षा|
-|20 | にほんご |Nihongo| Japanese language |जापानी |
+- **Vocabulary:** Covered academic environment vocabulary (16-20: 学生, 学校, 大学, 教室, 日本語).
+- **Writing:** Practiced writing high-stroke Kanji like 教室 and 日本語.
 
-### 📝 Daily Progress Log [010/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
-| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
-| :--- | :--- | :--- | :--- | :--- |
-|21 | えいご |Eigo |English language| अंग्रेजी भाषा|
-|22 | ほん |Hon |Book |किताब|
-|23 | じしょ| Jisho| Dictionary |शब्दकोश|
-|24 | ざっし| Zasshi| Magazine |पत्रिका|
-|25|しんぶん| Shinbun| Newspaper |अखबारि|
----------
-### 📝 Daily Progress Log [010/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
-| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
-| :--- | :--- | :--- | :--- | :--- |
-|26 | のーと| Nooto| Notebook| नोटबुक|
-|27|  ぺん |Pen |Pen |पेन|
-|28 | つくえ| Tsukue |Desk| मेज|
-|29| いす| Isu |Chair| कुर्सी||
-|30 | とけい| Tokei |Clock / Watch |घड़ी|
-|31 | でんわ| Denwa| Telephone|फोन|
-------------
-### 📝 Daily Progress Log [010/05/2026]
-#### ⛩️ New Kanji Learned (5 Characters)
-*Goal: Mastering Vocabulary Words.*
-| Sr |  Hiragana |  Romji |  Meaning |  Hindi |
-| :--- | :--- | :--- | :--- | :--- |
-|26 | のーと| Nooto| Notebook| नोटबुक|
-|27|  ぺん |Pen |Pen |पेन|
-|28 | つくえ| Tsukue |Desk| मेज|
-|29| いす| Isu |Chair| कुर्सी||
-|30 | とけい| Tokei |Clock / Watch |घड़ी|
-|31 | でんわ| Denwa| Telephone|फोन|
+### 📝 Daily Progress Log [10/05/2026]
+- **Vocabulary:** Focused on study material and languages (21-25: 英語, 本, 辞書, 雑誌, 新聞).
+- **Status:** Reached 25/100 target for the JLPT N5 Vocabulary Part 1.
 
-------------------------------
+### 📝 Daily Progress Log [11/05/2026]
+- **Vocabulary:** Mastered classroom/desk items (26-30: ノート, ペン, 机, 椅子, 時計).
+- **Milestone:** Successfully completed 30 essential core words from the syllabus.
 
+### 📝 Daily Progress Log [12/05/2026]
+- **Grammar:** Integrated words 1-15 into basic sentence structures (e.g., わたし の ともだち).
+- **Status:** Focused on building sentence formation logic.
 
+### 📝 Daily Progress Log [13/05/2026]
+- **Grammar:** Applied words 16-30 to express object placement (e.g., つくえ の うえ に ほん が あります).
+- **Review:** Practice tracking completed via digital quiz.
 
-
+### 📝 Daily Progress Log [14/05/2026]
+- **Revision Block:** Comprehensive review of all 30 words learned from the vocabulary sheet.
+- **Status:** Ready to resume upcoming active sessions with Python & IoT setup.
